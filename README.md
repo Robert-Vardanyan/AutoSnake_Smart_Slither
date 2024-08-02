@@ -1,6 +1,6 @@
-# Snake Game by ROVA
+# AutoSnake: Smart Slither
 
-Добро пожаловать в Snake Game, автоматическую версию классической игры, разработанную с использованием библиотеки Pygame!
+Добро пожаловать в AutoSnake: Smart Slither, автоматическую версию классической игры, разработанную с использованием библиотеки Pygame!
 
 ## Описание
 
@@ -19,9 +19,9 @@
     pip install -r requirements.txt
     ```
 4. Скачайте или клонируйте этот репозиторий.
-5. Запустите файл `snake3.py`:
+5. Запустите файл `snake.py`:
     ```bash
-    python snake3.py
+    python snake.py
     ```
 
 ## Примеры использования
@@ -52,6 +52,6 @@
     git clone <https://github.com/Robert-Vardanyan/AutoSnake_Smart_Slither.git>
     ```
 
-### Пример добавления фото:
+### Примеры:
 ```markdown
 ![Описание изображения](путь_к_изображению)
