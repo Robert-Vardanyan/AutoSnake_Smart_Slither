@@ -49,7 +49,7 @@
     ```
 4. Скачайте этот репозиторий или клонируйте его с помощью Git:
     ```bash
-    git clone <https://github.com/Robert-Vardanyan/AutoSnake_Smart_Slither.git>
+    git clone https://github.com/Robert-Vardanyan/AutoSnake_Smart_Slither.git
     ```
 
 ### Примеры:
