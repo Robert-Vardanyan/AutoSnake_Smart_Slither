@@ -54,4 +54,6 @@
 
 ### Примеры:
 ```markdown
-![Описание изображения](путь_к_изображению)
+![Видео 1.]([https://drive.google.com/file/d/1h5C4iRUUoPFykvQITIssXa4tHRIxcCTe/view?usp=sharing])
+![Видео 2.]([https://drive.google.com/file/d/14GujxnhaVjVza5xa9ROufKhNlQKI3kZa/view?usp=sharing])
+
