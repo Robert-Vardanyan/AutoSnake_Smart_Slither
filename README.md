@@ -54,7 +54,7 @@
 
 ### Примеры:
 ```markdown
-[Видео 1]([https://github.com/Robert-Vardanyan/AutoSnake_Smart_Slither/issues/1#issue-2445219480])
+[Видео 1](https://github.com/Robert-Vardanyan/AutoSnake_Smart_Slither/issues/1#issue-2445219480)
 [Видео 2](https://drive.google.com/file/d/14GujxnhaVjVza5xa9ROufKhNlQKI3kZa/view?usp=sharing)
 
 
