@@ -52,12 +52,12 @@
     git clone https://github.com/Robert-Vardanyan/AutoSnake_Smart_Slither.git
     ```
 
-### Примеры:
+## Примеры:
 
-## Видео 1
+### Видео 1
 ![Recording-2024-08-02-191145](https://github.com/user-attachments/assets/13828ec0-3fda-4a71-b086-7042774bacbb)
 
-## Видео 2
+### Видео 2
 ![Recording-2024-07-05-103108](https://github.com/user-attachments/assets/443a9087-5eeb-4ac1-8708-636eff83026f)
 
 
